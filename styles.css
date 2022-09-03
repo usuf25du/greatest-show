@@ -1,0 +1,55 @@
+body{
+    font-family: 'Poppins', sans-serif;
+background-color: aliceblue;
+}
+main{
+    background-color: black;
+    position: absolute;
+    border-radius: 20px;
+    width: 1321px;
+    height: 646px;
+    left: 140px;
+    top: 50px;
+}
+.info{
+    color: white;
+    width: 531px;
+    height: 424px;
+    padding-right: 30px;
+
+}
+.player{
+    height: 613px;
+    width: 581px;
+    left: 801px;
+}
+    
+.caption{
+    font-size: 35px;
+}
+.part-one{
+    display: flex;
+    justify-content: center;
+    margin: 5%;
+    padding: 5%;
+    
+}
+.btn{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: orangered;
+    height: 45px;
+    width: 150px;
+    color: whitesmoke;
+    padding-top: 10px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    border-radius: 5px;
+    
+}
+.btn-text{
+    font-size: 15px;
+    margin-right: 30px;
+}
+
